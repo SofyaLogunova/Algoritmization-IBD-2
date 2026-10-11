@@ -15,6 +15,6 @@ double y = (a * Math.Abs(x * x * x) + 5.0 / 2.0 * b *
 Math.Sqrt(x * x + 1)) /
 (c + Math.Sin(x) * Math.Cos(x));
  Console.WriteLine($"x = {x}; y = {y}");
- }
- }
+    }
+   }
 }
